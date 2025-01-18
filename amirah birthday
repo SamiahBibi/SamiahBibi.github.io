@@ -1,0 +1,98 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+         h1{color:rgb(20, 91, 199);
+             text-align:center;
+         }
+         h2 {color:rgb(20, 91, 199);
+             text-align:center;
+             font-family:sans-serif;
+         }
+          h3{color:rgb(20, 91, 199);
+             text-align:center;
+             font-size:25px;
+         }
+          
+          
+          #girl{color:rgb(20, 91, 199);
+             text-align:center;
+             font-size:40px;
+             font-style:italic;
+             font-weight:bold;
+             
+         }
+         body{background-color:rgb(220, 244, 250);}
+          
+          #info{background-color:lightgreen;}
+          #details{background-color:rgb(199, 153, 199);
+              font-size:18px;
+          }
+            .address{color:rgb(230, 8, 0);}
+            #cake{width:150px;
+                margin:15px 12px 10px 0 px ;
+                border:2px dashed;
+            float:right;
+            margin-right:10px;
+            margin-bottom:10px;}
+            
+            #baloons{width:150px;
+                margin:15px 12px 10px 0 px ;
+                border:2px dashed;
+            float:left;
+            margin-right:20px;
+            margin-bottom:30px;
+            }
+            
+            h5{text-align:center;
+                clear:both;
+                font-size:20px;
+            }
+        </style>
+    </head>
+    <body>
+        <h2> Please join Us for A</h2>
+        <h1>Birthday Party</h1> 
+        <img id="cake" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/GermanChocolateCake.jpg"alt="baloons" width="250">
+        <h3>celebrating</h3>
+       
+        <p id="girl"> Amirah Ajaib</p>
+        
+       <img id="baloons" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Congrats_bqt.jpg"alt="baloons" width="250">
+        
+    <div id="info">    <table>
+            <thead>
+                <tr>
+                    <th>Date:  </th>
+                    <th> Time: </th>
+                    <th> RSVP:</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th> 17th May </th><br>
+                    <th> 11.00 am</th><br>
+                    <th> Amirah.ajaib@gmail.com<br> </th>
+                </tr>
+            </tbody>
+        
+        </table> </div>
+        
+        
+     <div id ="details" >  <p>The details: </p>
+      
+        <ul>
+            <li><span class= "address"> At: AirFX Trampoline Park </span>
+            <li> Address: 21 Appleton street, Cheethamhill, Manchester M80PG.
+            <li> 11.00 am to 1.00 pm
+        
+        
+        </li>
+        </ul> </div>
+        <h5> Please sign a Waiver Online at:<br>  </h5>
+      <h5>  <a target="blank"href="https://airfxcr.com/">Airfxcr.com/waiver</a></h5>
+        
+    </body>
+</html>
